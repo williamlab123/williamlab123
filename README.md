@@ -23,11 +23,6 @@ You can click the Preview link to take a look at your changes.
   
   ###
   
-  <div  align="center"> 
-    
-     ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
- 
-</div>
