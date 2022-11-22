@@ -1,7 +1,7 @@
-<!---Sou o William, tenho 19 anos e atualmente estudo ciência da computação. Desenvolvo em algumas linguagens, como: HTML, CSS, JS, C# e C e uso alguns frameworks, como: dotnet, aspnet e react. Desenvolvo pra linux e windows mas meu coração pertence ao pinguim 
+<!--- Sou o William, tenho 19 anos e atualmente estudo ciência da computação. Desenvolvo em algumas linguagens, como: HTML, CSS, JS, C# e C e uso alguns frameworks, como: dotnet, aspnet e react. Desenvolvo pra linux e windows mas meu coração pertence ao pinguim 
 --->
 
-<div align="center>
+<div align="center">
             <h1 Software Engineer and backend developer </h1>
 </div>
 
