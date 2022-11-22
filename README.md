@@ -2,7 +2,7 @@
 --->
 
 <div align="center">
-            <h1> Software Engineer and backend developer </h1>
+            <h1> Software Engineer and Backend Developer </h1>
 </div>
 
 <!---
