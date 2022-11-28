@@ -1,4 +1,4 @@
- Sou o William, tenho 19 anos e atualmente estudo ciência da computação. Desenvolvo em algumas linguagens, como: HTML, CSS, JS, C# e C e uso alguns frameworks, como: dotnet, aspnet e react. Desenvolvo pra linux e windows mas meu coração pertence ao pinguim.
+ Sou o William, tenho 19 anos e atualmente estudo ciência da computação. Desenvolvo em algumas linguagens, como: HTML, CSS, JS, C# e C e uso alguns frameworks, como: Dotnet React. No momento estou aprendendo Typescript, Python e React. Desenvolvo pra linux e windows mas meu coração pertence ao pinguim.
 
 
 <!---
