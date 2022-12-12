@@ -1,6 +1,7 @@
  Sou o William, tenho 19 anos, sou Dev Junior e atualmente estudo ciência da computação. Desenvolvo em algumas linguagens, como: HTML, CSS, JS, C# e C e uso alguns frameworks, como: Dotnet,React e Aspnet. Desenvolvo pra linux e windows mas meu coração pertence ao pinguim.
  
  
+ 
 <!---
 <div align="center">
             <h1> Software Engineer and Backend Developer </h1>
